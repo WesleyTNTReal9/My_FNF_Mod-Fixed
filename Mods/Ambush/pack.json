@@ -1,0 +1,7 @@
+{
+	"name": "Ambush",
+	"description": "shut up
+	"restart":true,
+	"runsGlobally": true,
+	"color": [0, 0, 0]
+}
