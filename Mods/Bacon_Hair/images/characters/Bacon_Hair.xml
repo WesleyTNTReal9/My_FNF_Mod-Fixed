@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bacon_Hair.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bd0000" x="30" y="30" width="456" height="297" frameX="-34" frameY="-48" frameWidth="525" frameHeight="350"/>
+	<SubTexture name="bd0001" x="516" y="30" width="500" height="253" frameX="-12" frameY="-97" frameWidth="525" frameHeight="350"/>
+	<SubTexture name="bd0002" x="1046" y="30" width="525" height="245" frameX="0" frameY="-105" frameWidth="525" frameHeight="350"/>
+	<SubTexture name="bd0003" x="1601" y="30" width="440" height="313" frameX="-42" frameY="-36" frameWidth="525" frameHeight="350"/>
+	<SubTexture name="bd0004" x="2071" y="30" width="352" height="349" frameX="-85" frameY="0" frameWidth="525" frameHeight="350"/>
+	<SubTexture name="bi0000" x="2453" y="30" width="258" height="529" frameX="-4" frameY="-4" frameWidth="271" frameHeight="533"/>
+	<SubTexture name="bi0001" x="2453" y="30" width="258" height="529" frameX="-4" frameY="-4" frameWidth="271" frameHeight="533"/>
+	<SubTexture name="bi0002" x="2741" y="30" width="265" height="517" frameX="-6" frameY="-16" frameWidth="271" frameHeight="533"/>
+	<SubTexture name="bi0003" x="2741" y="30" width="265" height="517" frameX="-6" frameY="-16" frameWidth="271" frameHeight="533"/>
+	<SubTexture name="bi0004" x="3036" y="30" width="250" height="508" frameX="-14" frameY="-24" frameWidth="271" frameHeight="533"/>
+	<SubTexture name="bi0005" x="3036" y="30" width="250" height="508" frameX="-14" frameY="-24" frameWidth="271" frameHeight="533"/>
+	<SubTexture name="bi0006" x="3316" y="30" width="255" height="519" frameX="-1" frameY="-14" frameWidth="271" frameHeight="533"/>
+	<SubTexture name="bi0007" x="3316" y="30" width="255" height="519" frameX="-1" frameY="-14" frameWidth="271" frameHeight="533"/>
+	<SubTexture name="bi0008" x="3601" y="30" width="253" height="529" frameX="-2" frameY="-4" frameWidth="271" frameHeight="533"/>
+	<SubTexture name="bi0009" x="3601" y="30" width="253" height="529" frameX="-2" frameY="-4" frameWidth="271" frameHeight="533"/>
+	<SubTexture name="bi0010" x="30" y="589" width="251" height="531" frameX="0" frameY="-2" frameWidth="271" frameHeight="533"/>
+	<SubTexture name="bi0011" x="30" y="589" width="251" height="531" frameX="0" frameY="-2" frameWidth="271" frameHeight="533"/>
+	<SubTexture name="bi0012" x="311" y="589" width="251" height="533" frameX="-1" frameY="0" frameWidth="271" frameHeight="533"/>
+	<SubTexture name="bi0013" x="311" y="589" width="251" height="533" frameX="-1" frameY="0" frameWidth="271" frameHeight="533"/>
+	<SubTexture name="bl0000" x="592" y="589" width="401" height="534" frameX="0" frameY="-11" frameWidth="401" frameHeight="545"/>
+	<SubTexture name="bl0001" x="1023" y="589" width="371" height="545" frameX="-3" frameY="0" frameWidth="401" frameHeight="545"/>
+	<SubTexture name="bl0002" x="1424" y="589" width="371" height="539" frameX="-3" frameY="-6" frameWidth="401" frameHeight="545"/>
+	<SubTexture name="bl0003" x="1825" y="589" width="367" height="525" frameX="-15" frameY="-20" frameWidth="401" frameHeight="545"/>
+	<SubTexture name="bl0004" x="2222" y="589" width="363" height="506" frameX="-34" frameY="-38" frameWidth="401" frameHeight="545"/>
+	<SubTexture name="br0000" x="2615" y="589" width="465" height="526" frameX="0" frameY="0" frameWidth="490" frameHeight="526"/>
+	<SubTexture name="br0001" x="3110" y="589" width="471" height="499" frameX="-19" frameY="-27" frameWidth="490" frameHeight="526"/>
+	<SubTexture name="br0002" x="30" y="1164" width="464" height="481" frameX="-19" frameY="-44" frameWidth="490" frameHeight="526"/>
+	<SubTexture name="br0003" x="524" y="1164" width="400" height="463" frameX="-17" frameY="-63" frameWidth="490" frameHeight="526"/>
+	<SubTexture name="br0004" x="954" y="1164" width="366" height="486" frameX="-7" frameY="-40" frameWidth="490" frameHeight="526"/>
+	<SubTexture name="bu0000" x="1350" y="1164" width="286" height="600" frameX="-46" frameY="-14" frameWidth="374" frameHeight="616"/>
+	<SubTexture name="bu0001" x="1666" y="1164" width="287" height="553" frameX="-44" frameY="0" frameWidth="374" frameHeight="616"/>
+	<SubTexture name="bu0002" x="1983" y="1164" width="303" height="530" frameX="-36" frameY="-12" frameWidth="374" frameHeight="616"/>
+	<SubTexture name="bu0003" x="2316" y="1164" width="345" height="487" frameX="-15" frameY="-98" frameWidth="374" frameHeight="616"/>
+	<SubTexture name="bu0004" x="2691" y="1164" width="374" height="432" frameX="0" frameY="-184" frameWidth="374" frameHeight="616"/>
+</TextureAtlas>

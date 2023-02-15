@@ -1,0 +1,7 @@
+{
+	"name": "Bacon_Hair",
+	"description": "PIZZA!",
+	"restart":true,
+	"runsGlobally": true,
+	"color": [170, 0, 255]
+}

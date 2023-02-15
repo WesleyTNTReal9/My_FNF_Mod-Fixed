@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "bbi"
+		},
+		{
+			"offsets": [
+				110,
+				14
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "bbl"
+		},
+		{
+			"offsets": [
+				120,
+				-175
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "bbd"
+		},
+		{
+			"offsets": [
+				50,
+				98
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bbu"
+		},
+		{
+			"offsets": [
+				-29,
+				-3
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "bbr"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Burger",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "Bacon_Hair",
+	"flip_x": false,
+	"healthbar_colors": [
+		146,
+		147,
+		147
+	],
+	"camera_position": [
+		-210,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

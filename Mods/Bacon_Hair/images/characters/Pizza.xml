@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pizza.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bpd0000" x="30" y="30" width="456" height="297" frameX="-34" frameY="-48" frameWidth="525" frameHeight="350"/>
+	<SubTexture name="bpd0001" x="516" y="30" width="500" height="253" frameX="-12" frameY="-97" frameWidth="525" frameHeight="350"/>
+	<SubTexture name="bpd0002" x="1046" y="30" width="525" height="245" frameX="0" frameY="-105" frameWidth="525" frameHeight="350"/>
+	<SubTexture name="bpd0003" x="1601" y="30" width="440" height="313" frameX="-42" frameY="-36" frameWidth="525" frameHeight="350"/>
+	<SubTexture name="bpd0004" x="2071" y="30" width="361" height="349" frameX="-85" frameY="0" frameWidth="525" frameHeight="350"/>
+	<SubTexture name="bpi0000" x="2462" y="30" width="338" height="529" frameX="-4" frameY="-4" frameWidth="342" frameHeight="533"/>
+	<SubTexture name="bpi0001" x="2462" y="30" width="338" height="529" frameX="-4" frameY="-4" frameWidth="342" frameHeight="533"/>
+	<SubTexture name="bpi0002" x="2830" y="30" width="325" height="517" frameX="-6" frameY="-16" frameWidth="342" frameHeight="533"/>
+	<SubTexture name="bpi0003" x="2830" y="30" width="325" height="517" frameX="-6" frameY="-16" frameWidth="342" frameHeight="533"/>
+	<SubTexture name="bpi0004" x="3185" y="30" width="314" height="508" frameX="-14" frameY="-24" frameWidth="342" frameHeight="533"/>
+	<SubTexture name="bpi0005" x="3185" y="30" width="314" height="508" frameX="-14" frameY="-24" frameWidth="342" frameHeight="533"/>
+	<SubTexture name="bpi0006" x="3529" y="30" width="323" height="519" frameX="-1" frameY="-14" frameWidth="342" frameHeight="533"/>
+	<SubTexture name="bpi0007" x="3529" y="30" width="323" height="519" frameX="-1" frameY="-14" frameWidth="342" frameHeight="533"/>
+	<SubTexture name="bpi0008" x="30" y="589" width="320" height="529" frameX="-2" frameY="-4" frameWidth="342" frameHeight="533"/>
+	<SubTexture name="bpi0009" x="30" y="589" width="320" height="529" frameX="-2" frameY="-4" frameWidth="342" frameHeight="533"/>
+	<SubTexture name="bpi0010" x="380" y="589" width="321" height="531" frameX="0" frameY="-2" frameWidth="342" frameHeight="533"/>
+	<SubTexture name="bpi0011" x="380" y="589" width="321" height="531" frameX="0" frameY="-2" frameWidth="342" frameHeight="533"/>
+	<SubTexture name="bpi0012" x="731" y="589" width="319" height="533" frameX="-1" frameY="0" frameWidth="342" frameHeight="533"/>
+	<SubTexture name="bpi0013" x="731" y="589" width="319" height="533" frameX="-1" frameY="0" frameWidth="342" frameHeight="533"/>
+	<SubTexture name="bpl0000" x="1080" y="589" width="607" height="534" frameX="0" frameY="-11" frameWidth="622" frameHeight="545"/>
+	<SubTexture name="bpl0001" x="1717" y="589" width="616" height="545" frameX="-3" frameY="0" frameWidth="622" frameHeight="545"/>
+	<SubTexture name="bpl0002" x="2363" y="589" width="619" height="539" frameX="-3" frameY="-6" frameWidth="622" frameHeight="545"/>
+	<SubTexture name="bpl0003" x="3012" y="589" width="576" height="525" frameX="-15" frameY="-20" frameWidth="622" frameHeight="545"/>
+	<SubTexture name="bpl0004" x="30" y="1164" width="519" height="506" frameX="-34" frameY="-38" frameWidth="622" frameHeight="545"/>
+	<SubTexture name="bpr0000" x="579" y="1164" width="527" height="526" frameX="0" frameY="0" frameWidth="567" frameHeight="526"/>
+	<SubTexture name="bpr0001" x="1136" y="1164" width="548" height="499" frameX="-19" frameY="-27" frameWidth="567" frameHeight="526"/>
+	<SubTexture name="bpr0002" x="1714" y="1164" width="548" height="481" frameX="-19" frameY="-44" frameWidth="567" frameHeight="526"/>
+	<SubTexture name="bpr0003" x="2292" y="1164" width="501" height="463" frameX="-17" frameY="-63" frameWidth="567" frameHeight="526"/>
+	<SubTexture name="bpr0004" x="2823" y="1164" width="476" height="486" frameX="-7" frameY="-40" frameWidth="567" frameHeight="526"/>
+	<SubTexture name="bpu0000" x="3329" y="1164" width="348" height="600" frameX="-46" frameY="-14" frameWidth="394" frameHeight="616"/>
+	<SubTexture name="bpu0001" x="3707" y="1164" width="350" height="553" frameX="-44" frameY="0" frameWidth="394" frameHeight="616"/>
+	<SubTexture name="bpu0002" x="30" y="1794" width="358" height="530" frameX="-36" frameY="-12" frameWidth="394" frameHeight="616"/>
+	<SubTexture name="bpu0003" x="418" y="1794" width="379" height="487" frameX="-15" frameY="-98" frameWidth="394" frameHeight="616"/>
+	<SubTexture name="bpu0004" x="827" y="1794" width="394" height="432" frameX="0" frameY="-184" frameWidth="394" frameHeight="616"/>
+</TextureAtlas>
