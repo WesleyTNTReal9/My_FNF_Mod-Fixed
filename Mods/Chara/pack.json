@@ -1,0 +1,7 @@
+{
+	"name": "Chara",
+	"description": "",
+	"restart":true,
+	"runsGlobally": true,
+	"color": [170, 0, 255]
+}

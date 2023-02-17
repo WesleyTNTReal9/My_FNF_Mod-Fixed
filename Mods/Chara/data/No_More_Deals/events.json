@@ -1,0 +1,239 @@
+{
+	"song": {
+		"speed": 3.3,
+		"stage": "stagechara",
+		"player1": "bf",
+		"player2": "chara-enemy",
+		"player3": null,
+		"events": [
+			[
+				857.142857142857,
+				[
+					[
+						"yes text",
+						"",
+						""
+					]
+				]
+			],
+			[
+				21375,
+				[
+					[
+						"Play Animation",
+						"chamoy",
+						"chara-enemy"
+					]
+				]
+			],
+			[
+				22285.7142857143,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						"0.1"
+					]
+				]
+			],
+			[
+				29785.7142857143,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				31500,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				33214.2857142857,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				45428.5714285714,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				51214.2857142857,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				54535.7142857143,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				56571.4285714286,
+				[
+					[
+						"Alt Idle Animation",
+						"chara-enemy",
+						"-alt"
+					]
+				]
+			],
+			[
+				77142.8571428572,
+				[
+					[
+						"Alt Idle Animation",
+						"chara-enemy",
+						""
+					]
+				]
+			],
+			[
+				97714.2857142857,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				113357.142857143,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				115877.678571429,
+				[
+					[
+						"Play Animation",
+						"chamoy",
+						"chara-enemy"
+					]
+				]
+			],
+			[
+				116785.714285714,
+				[
+					[
+						"Screen Shake",
+						"27.22, 0.009",
+						"27.22, 0.009"
+					]
+				]
+			],
+			[
+				124285.714285714,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				127714.285714286,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				130285.714285714,
+				[
+					[
+						"Change Scroll Speed",
+						"1.15",
+						"1"
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				139714.285714286,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				141428.571428571,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			],
+			[
+				158357.142857143,
+				[
+					[
+						"DodgeEvent",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "",
+		"bpm": 140,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "No More Deals"
+	}
+}
